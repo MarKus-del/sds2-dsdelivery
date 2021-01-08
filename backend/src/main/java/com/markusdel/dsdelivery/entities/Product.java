@@ -8,7 +8,7 @@ import java.util.Objects;
 @Table(name = "tb_product")
 public class Product  implements Serializable {
 
-    private static final long serilaVersionUID = 1L;
+    private static final long serialVersionUID = 1L;
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -19,10 +19,7 @@ function Footer() {
         <a href="https://www.instagram.com/devsuperior.ig" target="_blank" >
           <Instagram />
         </a>
-        
-        
-        
-        
+    
       </div>
     </footer>
   );

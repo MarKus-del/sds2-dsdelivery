@@ -3,7 +3,7 @@ import { toast } from 'react-toastify';
 
 import { fetchProducts, saveOrder } from '../api';
 import Footer from '../Footer';
-import { checkIsSelected, formatPrice } from './helpers';
+import { checkIsSelected } from './helpers';
 import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
 import ProductsList from './ProductsList';

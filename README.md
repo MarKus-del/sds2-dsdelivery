@@ -5,10 +5,15 @@
 
 # Sumario
 
++ [Sobre](#Sobre)
 + [Tecnologias](#Tecnologias)
 + [Links](#Links)
 + [Back-end](#Back-end)
 + [Front-end](#Front-end)
+
+## Sobre 
+
+O DSdelivery é um aplicativo web que simula um serviço delivery de um restaurante, atraves da versão web e possivel selecionar os produtos e a sua localização e efetua o pedido, e depois na versão mobile o entregador ou atendente pode ver os pedidos com os produtos, e de acordo com o entregador pode utilizar o google maps para calcular a rota para entregar o pedido pelo botão  no app e marcar o pedido como entregue
 
 ## Tecnologias
 ![](https://img.shields.io/badge/Java-11-red) ![](https://img.shields.io/badge/ReactJS-17-blue) ![](https://img.shields.io/badge/Spring%20Boot-2.4-green) 
@@ -67,11 +72,36 @@ No front-end foi usado a biblioteca ReactJs com typescript para construir a inte
 ### **Imagens**
 
 **Home**
+
 ![home](./assets/home.png)
+
 **lista de produtos**
+
 ![home](./assets/orders.png)
+
 **Mapa para marcar sua localização**
+
 ![home](./assets/mapa.png)
+
 **item selecionado**
+
 ![home](./assets/orders-selected.png)
+
+## Front-mobile
+
+Para a parte mobile foi ensinado o react native uma versão do reactjs para dispositivos mobile que por tras dos pano compilar para o codigo do dispositivo mobile
+
+**images da versão mobile:**
+
+**Home**
+
+![home](./assets/home-mobile.jpg)
+
+**lista as orders**
+
+![home](./assets/list-orders-mobile.jpg)
+
+**Opções de cada order**
+
+![home](./assets/options-order-mobile.jpg)
 

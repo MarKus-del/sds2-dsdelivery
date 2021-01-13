@@ -2,6 +2,7 @@
 
   Este é um projeto desenvolvido durante a Semana DevSuperior, um evento disponibilizado pelo canal [DevSuperior](https://www.youtube.com/c/DevSuperior) que tem o intuito de demonstrar como é possivel desenvolvar aplicações full-stacks com as tecnologias **Java + Spring Boot + ReactJS**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a59b79e-e3cf-4162-be14-a1159931753c/deploy-status)](https://app.netlify.com/sites/marcos-sds2-dsdelivery/deploys)
 
 # Sumario
 
@@ -10,13 +11,14 @@
 + [Links](#Links)
 + [Back-end](#Back-end)
 + [Front-end](#Front-end)
++ [Front-mobile](#Front-mobile)
 
 ## Sobre 
 
 O DSdelivery é um aplicativo web que simula um serviço delivery de um restaurante, atraves da versão web e possivel selecionar os produtos e a sua localização e efetua o pedido, e depois na versão mobile o entregador ou atendente pode ver os pedidos com os produtos, e de acordo com o entregador pode utilizar o google maps para calcular a rota para entregar o pedido pelo botão  no app e marcar o pedido como entregue
 
 ## Tecnologias
-![](https://img.shields.io/badge/Java-11-red) ![](https://img.shields.io/badge/ReactJS-17-blue) ![](https://img.shields.io/badge/Spring%20Boot-2.4-green) 
+![](https://img.shields.io/badge/Java-11-red) ![](https://img.shields.io/badge/ReactJS-17-blue) ![](https://img.shields.io/badge/Spring%20Boot-2.4-green) ![](https://img.shields.io/badge/ReactNative-0.63-blue) 
 
 ## Links
 
